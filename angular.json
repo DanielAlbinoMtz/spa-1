@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "spa-ejercicio1": {
@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "spa-ejercicio1"
+    }
+  },
+  "defaultProject": "spa-ejercicio1",
+  "cli": {
+    "analytics": "aa65e971-f2ad-4b1d-a6fb-bd1be89667bd"
+  }
 }
